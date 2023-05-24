@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf0ebf0-78a2-494b-87fa-8a8f2ce7e75f" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/c&amp;c++.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c&amp;c++/c++/Boj1764.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c&amp;c++/c++/Boj1764.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c&amp;c++/hello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c&amp;c++/hello.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c&amp;c++/helloword.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c&amp;c++/helloword.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/helloword.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/.idea/c.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/hello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloword.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/c&amp;c++" />
+  </component>
+  <component name="ProjectId" id="2QE2J5X644SoC7iOWorAKpAYbeX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Boj1764.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj1764.cpp" CONFIG_NAME="Boj1764.cpp">
+      <option name="sourceFile" value="c&amp;c++\c++\Boj1764.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1cf0ebf0-78a2-494b-87fa-8a8f2ce7e75f" name="변경" comment="" />
+      <created>1684904345145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684904345145</updated>
+      <workItem from="1684904346299" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
