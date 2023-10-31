@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf0ebf0-78a2-494b-87fa-8a8f2ce7e75f" name="변경" comment="수정">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CppFileRunConfiguration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CppFileRunConfiguration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-26__7_18__________.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-05-26_오후_7_18,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boj4134.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Boj4134.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c&amp;c++/c++/Boj4134.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c&amp;c++/c++/Boj4134.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/c&amp;c++" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="40de6d07-187f-4b6c-8be2-f5d905fb3832" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2QE2J5X644SoC7iOWorAKpAYbeX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +46,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -52,42 +58,42 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ 파일.Boj4134.cpp">
-    <configuration name="Boj11478.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj11478.cpp" CONFIG_NAME="Boj11478.cpp">
+    <configuration name="Boj11478.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj11478.cpp" CONFIG_NAME="Boj11478.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Boj11478.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj1269.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj1269.cpp" CONFIG_NAME="Boj1269.cpp">
+    <configuration name="Boj1269.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj1269.cpp" CONFIG_NAME="Boj1269.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Boj1269.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj1764.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj1764.cpp" CONFIG_NAME="Boj1764.cpp">
+    <configuration name="Boj1764.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj1764.cpp" CONFIG_NAME="Boj1764.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Boj1764.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj2485.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj2485.cpp" CONFIG_NAME="Boj2485.cpp">
+    <configuration name="Boj2485.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj2485.cpp" CONFIG_NAME="Boj2485.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Boj2485.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj4134.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj4134.cpp" CONFIG_NAME="Boj4134.cpp">
+    <configuration name="Boj4134.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Boj4134.cpp" CONFIG_NAME="Boj4134.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Boj4134.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bpj1735.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Bpj1735.cpp" CONFIG_NAME="Bpj1735.cpp">
+    <configuration name="Bpj1735.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Bpj1735.cpp" CONFIG_NAME="Bpj1735.cpp">
       <option name="sourceFile" value="c&amp;c++\c++\Bpj1735.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
@@ -120,6 +126,7 @@
       <workItem from="1685098561085" duration="13000" />
       <workItem from="1685099250031" duration="862000" />
       <workItem from="1685168756114" duration="5830000" />
+      <workItem from="1698738737259" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="setting">
       <created>1684904399301</created>
