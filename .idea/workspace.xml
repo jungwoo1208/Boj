@@ -9,10 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cf0ebf0-78a2-494b-87fa-8a8f2ce7e75f" name="변경" comment="DFS와 BFS">
-      <change afterPath="$PROJECT_DIR$/Boj1074.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++/Boj1074.cpp" afterDir="false" />
+    <list default="true" id="1cf0ebf0-78a2-494b-87fa-8a8f2ce7e75f" name="변경" comment="Z">
+      <change afterPath="$PROJECT_DIR$/c++/Boj1389.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boj1074.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Boj1074.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <recent name="C:\Users\gjw19\CLionProjects\Boj\c++" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.Boj1074.cpp">
+  <component name="RunManager" selected="C/C++ 파일.Boj1389.cpp">
     <configuration name="Boj1074.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boj" TARGET_NAME="Boj1074.cpp" CONFIG_NAME="Boj1074.cpp">
       <option name="sourceFile" value="c++\Boj1074.cpp" />
       <method v="2">
@@ -75,6 +75,12 @@
     </configuration>
     <configuration name="Boj1260.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boj" TARGET_NAME="Boj1260.cpp" CONFIG_NAME="Boj1260.cpp">
       <option name="sourceFile" value="c++\Boj1260.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj1389.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boj" TARGET_NAME="Boj1389.cpp" CONFIG_NAME="Boj1389.cpp">
+      <option name="sourceFile" value="c++\Boj1389.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -97,19 +103,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bpj1735.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="Bpj1735.cpp" CONFIG_NAME="Bpj1735.cpp">
-      <option name="sourceFile" value="c&amp;c++\c++\Bpj1735.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 파일.Boj1389.cpp" />
         <item itemvalue="C/C++ 파일.Boj1074.cpp" />
         <item itemvalue="C/C++ 파일.Boj1260.cpp" />
         <item itemvalue="C/C++ 파일.Boj4134.cpp" />
         <item itemvalue="C/C++ 파일.Boj2485.cpp" />
-        <item itemvalue="C/C++ 파일.Bpj1735.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,9 @@
       <workItem from="1698738917759" duration="182000" />
       <workItem from="1698753891537" duration="1804000" />
       <workItem from="1698802689943" duration="126000" />
-      <workItem from="1698840674374" duration="1358000" />
+      <workItem from="1698840674374" duration="1459000" />
+      <workItem from="1698896762055" duration="965000" />
+      <workItem from="1698910302067" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="setting">
       <created>1684904399301</created>
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698755686129</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Z">
+      <option name="closed" value="true" />
+      <created>1698842142173</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698842142173</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +233,8 @@
     <MESSAGE value="setting" />
     <MESSAGE value="수정" />
     <MESSAGE value="DFS와 BFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS와 BFS" />
+    <MESSAGE value="Z" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
