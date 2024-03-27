@@ -2,7 +2,7 @@
 using namespace std;
 int n,k;
 long result=0;
-class Dot{
+class Dot{//좌표를 저장하는 클래스
 private:
     long x,y;
 public:
@@ -21,7 +21,7 @@ long Dot::gety() const {
     return y;
 }
 Dot dot_list[100];
-int range(long lx,long rx,long dy,long ty,int idx){
+int range(long lx,long rx,long dy,long ty,int idx){//범위안에 있는지 확인
     int x=dot_list[idx].getx();
     int y=dot_list[idx].gety();
     if(x>=lx&&x<=rx&&y<=ty&&y>=dy){
@@ -29,7 +29,7 @@ int range(long lx,long rx,long dy,long ty,int idx){
     }
     return 0;
 }
-int check(long len){
+int check(long len){//길이가 len인 정사각형이 k개 이상이면 1 아니면 0
     for(int i=0;i<n;i++){
         long lx= dot_list[i].getx();
         long rx= lx+len;
@@ -59,10 +59,10 @@ int main(){
         d.SetInfo(x,y);
         dot_list[i]=d;
     }
-    long start=0,end=2000000000;
-    while(start <= end){
+    long start=0,end=2000000000;//이분탐색 범위 설정
+    while(start <= end){//이분탐색
         long mid= (start + end) / 2l;
-        if(check(mid)){
+        if(check(mid)){//
             result=mid;
             end= mid - 1;
         }else{
